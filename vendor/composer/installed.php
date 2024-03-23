@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'vivar/bienes-raices-mvc',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'a994f16bd1bffea547d3e56a130d1bbf737cd48d',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'vivar/bienes-raices-mvc' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'a994f16bd1bffea547d3e56a130d1bbf737cd48d',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
